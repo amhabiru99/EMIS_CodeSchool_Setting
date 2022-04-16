@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeSchoolCode", "ChangeSchoolCode\ChangeSchoolCode.csproj", "{3E4790AD-9319-4015-BE90-570347306C47}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CodeModifyer", "CodeModifyer\CodeModifyer.vdproj", "{E4E6AED8-9457-477A-A7FB-3A75C2F39A71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E4790AD-9319-4015-BE90-570347306C47}.Debug|x64.ActiveCfg = Debug|x64
+		{3E4790AD-9319-4015-BE90-570347306C47}.Debug|x64.Build.0 = Debug|x64
+		{3E4790AD-9319-4015-BE90-570347306C47}.Debug|x86.ActiveCfg = Debug|x86
+		{3E4790AD-9319-4015-BE90-570347306C47}.Debug|x86.Build.0 = Debug|x86
+		{3E4790AD-9319-4015-BE90-570347306C47}.Release|x64.ActiveCfg = Release|x64
+		{3E4790AD-9319-4015-BE90-570347306C47}.Release|x64.Build.0 = Release|x64
+		{3E4790AD-9319-4015-BE90-570347306C47}.Release|x86.ActiveCfg = Release|x86
+		{3E4790AD-9319-4015-BE90-570347306C47}.Release|x86.Build.0 = Release|x86
+		{E4E6AED8-9457-477A-A7FB-3A75C2F39A71}.Debug|x64.ActiveCfg = Debug
+		{E4E6AED8-9457-477A-A7FB-3A75C2F39A71}.Debug|x86.ActiveCfg = Debug
+		{E4E6AED8-9457-477A-A7FB-3A75C2F39A71}.Release|x64.ActiveCfg = Release
+		{E4E6AED8-9457-477A-A7FB-3A75C2F39A71}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

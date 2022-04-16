@@ -1,0 +1,9 @@
+C:\Users\USER\Desktop\Applications1\WinApplicaions\ChangeSchoolCode\ChangeSchoolCode\ChangeSchoolCode\bin\x64\Debug\ChangeSchoolCode.exe.config
+C:\Users\USER\Desktop\Applications1\WinApplicaions\ChangeSchoolCode\ChangeSchoolCode\ChangeSchoolCode\bin\x64\Debug\ChangeSchoolCode.exe
+C:\Users\USER\Desktop\Applications1\WinApplicaions\ChangeSchoolCode\ChangeSchoolCode\ChangeSchoolCode\bin\x64\Debug\ChangeSchoolCode.pdb
+C:\Users\USER\Desktop\Applications1\WinApplicaions\ChangeSchoolCode\ChangeSchoolCode\ChangeSchoolCode\obj\x64\Debug\ChangeSchoolCode.Form1.resources
+C:\Users\USER\Desktop\Applications1\WinApplicaions\ChangeSchoolCode\ChangeSchoolCode\ChangeSchoolCode\obj\x64\Debug\ChangeSchoolCode.Properties.Resources.resources
+C:\Users\USER\Desktop\Applications1\WinApplicaions\ChangeSchoolCode\ChangeSchoolCode\ChangeSchoolCode\obj\x64\Debug\ChangeSchoolCode.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Applications1\WinApplicaions\ChangeSchoolCode\ChangeSchoolCode\ChangeSchoolCode\obj\x64\Debug\ChangeSchoolCode.exe
+C:\Users\USER\Desktop\Applications1\WinApplicaions\ChangeSchoolCode\ChangeSchoolCode\ChangeSchoolCode\obj\x64\Debug\ChangeSchoolCode.pdb
+C:\Users\USER\Desktop\Applications1\WinApplicaions\ChangeSchoolCode\ChangeSchoolCode\ChangeSchoolCode\obj\x64\Debug\ChangeSchoolCode.csprojResolveAssemblyReference.cache
